@@ -12,26 +12,6 @@ Title=Default Motor
 
 [File_History]
 Initial_Version=ACS 1055@192.168.1.20    14.1.4.1 21/01/2022 17:37:44
-Previous_Version[1]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 24/02/2024 11:04:04 a. m.
-Previous_Version[2]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 24/02/2024 11:04:18 a. m.
-Previous_Version[3]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 24/02/2024 11:22:57 a. m.
-Previous_Version[4]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 26/02/2024 02:21:01 p. m.
-Previous_Version[5]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 26/02/2024 02:32:38 p. m.
-Previous_Version[6]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 26/02/2024 02:33:25 p. m.
-Previous_Version[7]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 26/02/2024 02:34:09 p. m.
-Previous_Version[8]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 26/02/2024 02:34:21 p. m.
-Previous_Version[9]=castirmo 1055@ansys.schaeffler.com 2023.2.2.1 12/03/2024 10:02:06 a. m.
-Previous_Version[10]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/03/2024 10:07:50 a. m.
-Previous_Version[11]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/03/2024 10:13:19 a. m.
-Previous_Version[12]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/03/2024 10:14:09 a. m.
-Previous_Version[13]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/03/2024 10:14:58 a. m.
-Previous_Version[14]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 09:10:22 a. m.
-Previous_Version[15]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 09:12:44 a. m.
-Previous_Version[16]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 11:38:28 a. m.
-Previous_Version[17]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 11:49:26 a. m.
-Previous_Version[18]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 11:52:48 a. m.
-Previous_Version[19]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 11:53:31 a. m.
-Previous_Version[20]=castrglb 1055@ansys.schaeffler.com 2023.2.2.1 25/04/2024 02:02:32 p. m.
 
 [Units]
 Units_Length=mm
